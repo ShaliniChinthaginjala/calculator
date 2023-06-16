@@ -1,0 +1,59 @@
+body{
+    background-image: url('https://www.boston.com/wp-content/uploads/2023/04/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2020_02_04_BostonGlobe.com_Business_Images_AdobeStock_271535719-6435f53f4c41b-scaled.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.conatiner
+{
+    background-color: rgba(0, 0, 0, 0.392);
+    width:400px;
+    height:450px;
+    margin:auto;
+    margin-top:3%;
+    border-radius:20px 20px 20px 20px;
+}
+.value
+{
+    font-size:20px;
+    font-style: normal;
+    color:white;
+    padding:10%;
+}
+.value input{
+    padding:10px;
+    margin-top:10%;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:1px 1px 2px 2px white;
+}
+#result,#wait
+{
+    background-color:red;
+    height:30px;
+    width:fit-content;
+    margin:auto;
+    margin-top:10px;
+}
+.button
+{
+    margin:auto;
+    margin-left:60px;
+    padding:30px;
+    
+}
+.button input
+{
+    padding:5%;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:1px 1px 2px 2px white;
+
+}
+.end
+{
+    margin-left: 40%;
+    justify-content: space-evenly;
+}
+.end input{
+    padding:5%;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow:1px 1px 2px 2px white; 
+}
